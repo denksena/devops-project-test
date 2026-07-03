@@ -14,7 +14,7 @@ Client → nginx:80 → backend:8080
 ## Запуск
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/denksena/devops-project-test.git
 cd devops-project-test
 docker compose up -d --build
 ```
